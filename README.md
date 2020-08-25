@@ -19,7 +19,7 @@ Those are the sql exercises for myself. I used this [site](https://sqlzoo.net/wi
 
 ## Repository Contents
 
-I've made the examples and from the second one and I've started to put them on github. There are 8 modules. Normally there was no need for to put them on github but I did it anyway.
+There are 8 modules, are about practising sql exercises.
 
 
 ## 🤝 Contributing
